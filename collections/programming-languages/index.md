@@ -57,6 +57,7 @@ items:
 - ChavaScript/chavascript
 - DennisMitchell/jellylanguage
 - beefytech/Beef
+- crohn64/Steel-Lang
 display_name: Programming languages
 created_by: leereilly
 ---
